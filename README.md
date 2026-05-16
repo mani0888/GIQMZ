@@ -31,9 +31,9 @@ Users should ensure that image names, dataset folders, and MOS/DMOS files are or
 
 **Citation**
 If you use this code or the proposed metrics in your research, please cite the associated IEEE Access article:
-@article{khan2026giqmz, 
-  title = {No-Reference Generic Image Quality Assessment via Adaptive Fusion of Naturalness-Enhanced Color and Appearance-Driven Spatial Metrics}, 
-  author = {Khan, Muhammad Usman and Mehmood, Imran and Luo, Ming Ronnier}, 
-  journal = {IEEE Access}, 
+@article{khan2026giqmz,
+  title = {No-Reference Generic Image Quality Assessment via Adaptive Fusion of Naturalness-Enhanced Color and Appearance-Driven Spatial Metrics},
+  author = {Khan, Muhammad Usman and Mehmood, Imran and Luo, Ming Ronnier},
+  journal = {IEEE Access},
   year = {2026} 
 }
